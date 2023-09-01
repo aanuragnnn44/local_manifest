@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
-   <project path="device/xiaomi/selene" name="anuragnn4823/android_device_xiaomi_selene.git" remote="github" revision="lineageos-20" />
- <project path="vendor/xiaomi/selene" name="anuragnn4823/android_vendor_xiaomi_selene.git" remote="github" revision="thirteen" />
- <project path="kernel/xiaomi/selene" name="anuragnn4823/android_kernel_xiaomi_selene.git" remote="github" revision="thirteen-stable" />
+   <project path="device/xiaomi/selene" name="aanuragnnn44/android_device_xiaomi_selene.git" remote="github" revision="lineageos-20" />
+ <project path="vendor/xiaomi/selene" name="aanuragnnn44/android_vendor_xiaomi_selene.git" remote="github" revision="thirteen" />
+ <project path="kernel/xiaomi/selene" name="aanuragnnn44/android_kernel_xiaomi_selene.git" remote="github" revision="thirteen-stable" />
  
 </manifest>
